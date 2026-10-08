@@ -1,0 +1,18 @@
+{
+  "COC7SAN": {
+    "ButtonTitle": "Santé Mentale du groupe",
+    "WindowTitle": "Santé Mentale des investigateurs",
+    "ColName": "Investigateur",
+    "ColSan": "Santé Mentale",
+    "ColState": "État",
+    "ColEra": "Époque",
+    "Lowest": "Valeur la plus basse",
+    "Refresh": "Actualiser",
+    "NoActors": "Aucun personnage joueur trouvé.",
+    "CriticalTitle": "Seuil de folie indéfinie (SAN ≤ 1/5 du maximum)",
+    "LowestTitle": "Investigateur le plus fragile du groupe",
+    "Era1933": "1933 – Expédition Starkweather-Moore",
+    "EraModern": "2025-2026 – Descendants",
+    "EraUnassigned": "Non assigné"
+  }
+}

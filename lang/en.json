@@ -1,0 +1,18 @@
+{
+  "COC7SAN": {
+    "ButtonTitle": "Party Sanity",
+    "WindowTitle": "Investigators' Sanity",
+    "ColName": "Investigator",
+    "ColSan": "Sanity",
+    "ColState": "State",
+    "ColEra": "Era",
+    "Lowest": "Lowest value",
+    "Refresh": "Refresh",
+    "NoActors": "No player character found.",
+    "CriticalTitle": "Indefinite insanity threshold (SAN \u2264 1/5 of maximum)",
+    "LowestTitle": "Most fragile investigator in the group",
+    "Era1933": "1933 – Starkweather-Moore Expedition",
+    "EraModern": "2025-2026 – Descendants",
+    "EraUnassigned": "Unassigned"
+  }
+}
